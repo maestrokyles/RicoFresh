@@ -75,7 +75,7 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 | <img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/> |
 
 
-### 3. Deployment
+## 3. Deployment
 You may try the Beta version of app by scanning the QR code below. Prerequisite: You need to have an **iphone** (later than 13) with <code>Client Go</code> installed.
 I will gradually perfect this app, and this link might fail in the future. I will try to update this link as often as possible. 
 
