@@ -41,7 +41,7 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 | Browse Problems  | Apply Filters |
 | ------------- | ------------- |
-| https://user-images.githubusercontent.com/66397999/187084833-c2d1dfcc-9db7-458f-abf9-15ce048729a8.mp4| https://user-images.githubusercontent.com/66397999/187084837-98226c69-d92c-497b-9033-2c1c87f8c720.mp4|
+| <video src="https://user-images.githubusercontent.com/66397999/187084833-c2d1dfcc-9db7-458f-abf9-15ce048729a8.mp4"/>| <video src="https://user-images.githubusercontent.com/66397999/187084837-98226c69-d92c-497b-9033-2c1c87f8c720.mp4"/>|
 ### 2.3 Flashcard
 - User's familarity to a code challenge is recorded in the database. 
 - Flashcard mode retrieves least familiar problems from the database. 
@@ -49,7 +49,7 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 - - Swipe Left: I have no clue!
 - - Swipe Right: This prob is easy!
 - - Swipe Up : Do not show this problem again. 
-https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4
+<video src="https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4"/>
 
 
 
