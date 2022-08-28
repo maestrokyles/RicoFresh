@@ -74,7 +74,8 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 
 ### 3. Deployment
-You may try this app by scanning the QR code below. Prerequisite: You need to have an **iphone** (later than 13) with <code>Client Go</code> installed.
+You may try the Beta version of app by scanning the QR code below. Prerequisite: You need to have an **iphone** (later than 13) with <code>Client Go</code> installed.
+I will gradually perfect this app, and this link might fail in the future. I will try to update this link as often as possible. 
 
 ![expo-go](https://user-images.githubusercontent.com/66397999/187085671-6f8ee1bf-f7d8-4156-9090-cadb620f9dd3.svg)
 
