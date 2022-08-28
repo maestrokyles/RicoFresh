@@ -56,7 +56,17 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 
 
-<video src="https://user-images.githubusercontent.com/66397999/187084278-df6fbc16-ce18-4b33-ba46-941bc7832d81.mp4" />
+
+
+
+
+
+
+
+| Swipe Left - i dont know | Swipe Right - I know it! | Swipe Up - Never Show Again |
+| ------------- | ------------- |------------- |
+| <video src="https://user-images.githubusercontent.com/66397999/187084278-df6fbc16-ce18-4b33-ba46-941bc7832d81.mp4" />  | <video src="https://user-images.githubusercontent.com/66397999/187084444-47d64607-3662-4e8a-a8a1-2ba9dff17dcb.mp4" />  | <video src="https://user-images.githubusercontent.com/66397999/187084443-a866188f-1d3f-412b-bbe9-97f8018191e4.mp4" />  | 
+
 
 
 
