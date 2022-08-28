@@ -67,9 +67,10 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 ### 2.5 Create a New Problem
 - Upload your own problem here
-| Create New |
+
+| Create New  |
 | ------------- |
-|<img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/>|
+| <img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/> |
 
 
 
