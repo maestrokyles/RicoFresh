@@ -53,12 +53,14 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 - - Swipe Left: I have no clue!
 - - Swipe Right: This prob is easy!
 - - Swipe Up : Do not show this problem again. 
-<!-- <video src="https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4" /> -->
+<video src="https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4" width="277" height="600"/>
+
 
 ### 2.4 Daily Challenge
 - Randomly pick a problem in the database.
 - The problem should be finished within the time period specified on the screen. 
 <img src="https://user-images.githubusercontent.com/66397999/187085142-05063b69-f3ac-4d4d-be9e-132c5798ef4a.png" width="277" height="600"/>
+
 ### 2.5 Create a New Problem
 - Upload your own problem here
 <img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/>
