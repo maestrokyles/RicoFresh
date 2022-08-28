@@ -62,7 +62,8 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 ### 2.4 Daily Challenge
 - Randomly pick a problem in the database.
 - The problem should be finished within the time period specified on the screen. 
-| Daily Challenge  |
+
+| Daily Challenge |
 | ------------- |
 | <img src="https://user-images.githubusercontent.com/66397999/187085142-05063b69-f3ac-4d4d-be9e-132c5798ef4a.png" width="277" height="600"/> |
 
