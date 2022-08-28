@@ -57,7 +57,10 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 <img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/>
 
-
+### 2.4 Daily Challenge
+- Randomly pick a problem in the database.
+- The problem should be finished within the time period specified on the screen. 
+<img src="https://user-images.githubusercontent.com/66397999/187085142-05063b69-f3ac-4d4d-be9e-132c5798ef4a.png" width="277" height="600"/>
 
 
 
