@@ -73,6 +73,9 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 | <img src="https://user-images.githubusercontent.com/66397999/187085070-cfd7a1f6-a8f9-4e4a-8b62-9d961a283f32.png" width="277" height="600"/> |
 
 
+### 3. Deployment
+You may try this app by scanning the QR code below. Prerequisite: You need to have an **iphone** with <code>Client Go</code> installed.
 
+![expo-go](https://user-images.githubusercontent.com/66397999/187085671-6f8ee1bf-f7d8-4156-9090-cadb620f9dd3.svg)
 
 
