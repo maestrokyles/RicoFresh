@@ -53,7 +53,7 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 - - Swipe Left: I have no clue!
 - - Swipe Right: This prob is easy!
 - - Swipe Up : Do not show this problem again. 
-<video src="https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4" />
+<!-- <video src="https://user-images.githubusercontent.com/66397999/187084701-20cbcbeb-8f15-41b2-96dc-562c803d6622.mp4" /> -->
 
 ### 2.4 Daily Challenge
 - Randomly pick a problem in the database.
