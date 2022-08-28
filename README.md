@@ -56,7 +56,7 @@ Feature: Utilized Google Firebase to realize user authentification and registrat
 
 
 
-https://user-images.githubusercontent.com/66397999/187084278-df6fbc16-ce18-4b33-ba46-941bc7832d81.mp4
+<video src="https://user-images.githubusercontent.com/66397999/187084278-df6fbc16-ce18-4b33-ba46-941bc7832d81.mp4" />
 
 
 
